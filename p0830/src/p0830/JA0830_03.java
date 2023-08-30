@@ -7,6 +7,8 @@ public class JA0830_03 {
 		int num1 = 550;       //변수선언
 		int num2 = 150;
 		int temp = 0;         //변수는 선언한 후 값이 들어가야 함. 값이 들어가기 전 사용시 에러
+		int temp2 = 0;
+		
 		int company_intro;
 		int companyIntro;
 		System.out.println(temp);
