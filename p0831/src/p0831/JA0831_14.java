@@ -18,10 +18,14 @@ public class JA0831_14 {
 		long num2 = (long)a/x*y;
 		System.out.println(num2);
 		
+		
+		
 		int i = 1;
 		int j = 1;
 		i = i + j;  // i=2
 		i += j;
+		
+		
 		
 		
 		
